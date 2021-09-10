@@ -1,0 +1,9 @@
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\bin\Debug\CoinTracker.Entities.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\bin\Debug\CoinTracker.Entities.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\bin\Debug\CoinTracker.Core.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\bin\Debug\CoinTracker.Core.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\obj\Debug\CoinTracker.Entities.csprojAssemblyReference.cache
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\obj\Debug\CoinTracker.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\obj\Debug\CoinTracker.Entities.csproj.CopyComplete
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\obj\Debug\CoinTracker.Entities.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Entities\obj\Debug\CoinTracker.Entities.pdb

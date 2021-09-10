@@ -1,0 +1,13 @@
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.DataAccess.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.DataAccess.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.Core.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.Entities.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.Core.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\CoinTracker.Entities.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\obj\Debug\CoinTracker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\obj\Debug\CoinTracker.DataAccess.csproj.CopyComplete
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\obj\Debug\CoinTracker.DataAccess.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\obj\Debug\CoinTracker.DataAccess.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.DataAccess\obj\Debug\CoinTracker.DataAccess.csproj.AssemblyReference.cache

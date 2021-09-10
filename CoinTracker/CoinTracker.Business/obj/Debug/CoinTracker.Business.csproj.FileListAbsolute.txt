@@ -1,0 +1,17 @@
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Business.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Business.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Core.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.DataAccess.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Entities.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\Ninject.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Core.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.DataAccess.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\CoinTracker.Entities.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\Ninject.xml
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\obj\Debug\CoinTracker.Business.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\obj\Debug\CoinTracker.Business.csproj.CopyComplete
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\obj\Debug\CoinTracker.Business.dll
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\obj\Debug\CoinTracker.Business.pdb
+C:\Users\Nuri\source\repos\CoinTracker\CoinTracker.Business\obj\Debug\CoinTracker.Business.csproj.AssemblyReference.cache
